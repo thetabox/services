@@ -1,0 +1,9 @@
+**/__tests__/**
+**/src/**
+*.json
+*.md
+wallaby.js
+*.env
+tsconfig.*
+*.log
+jest.*
